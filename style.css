@@ -1,0 +1,19 @@
+.references{
+
+    float: right;
+    width: 30%;
+    text-align: center;
+    color: blue;
+    background-color: whitesmoke;
+
+}
+.profile {
+    border: royalblue 2px solid;
+}
+.profile:hover {
+background-color: rgb(167, 180, 218);
+}
+.references a{
+    text-decoration: none;
+    color: teal;
+}
