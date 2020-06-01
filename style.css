@@ -1,8 +1,4 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    padding: 10px;
-    box-shadow: 10px 0px 10px 10px gray ;
-}
+
 /* Header */
 
 
@@ -11,9 +7,8 @@ body{
 
 /* section */
 section.introduction{
-                width: 60%;
+                width: 65%;
                 height: 200Px;
-                border: solid 3px black;
                 margin: 10px;
 }
 p#intro{
