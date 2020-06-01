@@ -1,18 +1,30 @@
+/*Additional text, article*/
+
 .additional-text {
     float: left;
     width: 65%;
-    background-color: #dcdcdd;
+    background-color: #fafafa;
     font-family: Arial, Helvetica, sans-serif;
     padding: 0px 15px;
     margin: 5px 15px;
+    border-top: 1px solid #eeeeee;
+    border-bottom: 1px solid #eeeeee;
 }
 
 .additional-text p {
-    font-weight: bold;
     line-height: 1.5em;
-    color: white;
 }
 
-.additional-text h2 {
-    color: white;
+.skyblue {
+    color: aqua;
 }
+
+.orange {
+    color: orangered;
+}
+
+.red {
+    color: red;
+}
+
+/*--------------------------------------*/
