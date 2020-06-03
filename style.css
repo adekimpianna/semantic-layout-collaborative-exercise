@@ -1,3 +1,17 @@
+/* section */
+section.introduction{
+                float: left;
+                width: 65%;
+                height: 200Px;
+                padding: 0px 15px;
+                 margin: 5px 15px;
+                background-color: #fafafa;
+}
+p#intro{
+         padding: 10px;
+         font-size: 20px;
+}
+
 /* HEADER */
 .main-header {
   display: flex;
@@ -80,7 +94,6 @@ footer p {
   color: red;
 }
 
-/*--------------------------------------*/
 /*aside start */
 .references {
   float: right;
@@ -98,4 +111,5 @@ footer p {
   text-decoration: none;
   color: white;
 }
-/*aside finished */
+
+
