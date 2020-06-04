@@ -123,6 +123,7 @@ h3{
   text-decoration: none;
   color: white;
 }
+
 /* FOOTER */
 footer {
   background-color: #3c3e41;
@@ -137,3 +138,21 @@ footer p {
   text-align: center;
 }
 
+/* Main Text */
+.main-text {
+	column-count: 3;
+    width: 65.8%;
+	margin:10px 15px 10px;
+	background: #eeeeee;
+	padding: 10px 10px;
+	box-shadow: 10 0 10px rgba(0,0,0,.25);
+  }
+  img{
+	  width: 55%;
+	  height: auto;
+	  display: flex;
+	  padding: 10px;
+	  background: #fff;
+	  box-shadow: 0 0 30px rgb(0,0,.2);
+	  box-sizing: border-box;
+  }
